@@ -50,9 +50,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+This video:
 ![CrewManager Demo](React+Vite-DisneyCrewmate.gif)
-Or
+[Or] this Video: 
 <img src='videos/React+Vite-DisneyCrewmate.gif' title='Video Walkthrough Desktop' width='' alt='Video Walkthrough Desktop' />
 
 
