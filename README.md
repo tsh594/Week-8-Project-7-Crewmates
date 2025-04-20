@@ -52,6 +52,9 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![CrewManager Demo](React+Vite-DisneyCrewmate.gif)
+Or
+<img src='videos/React+Vite-DisneyCrewmate.gif' title='Video Walkthrough Desktop' width='' alt='Video Walkthrough Desktop' />
+
 
 GIF created with [XBox] and [cloud converter](https://cloudconvert.com/mp4-to-gif)
 
